@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: 'The relationship between pressure and density: hydrostatic balance'
 uid: d6768eca-18db-c5fc-6d1f-ac9d27dcf147

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: 'Project 3: Convection'
 uid: ed6109be-1fff-ecf5-ac25-c4a1d9cb49d3

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: 'Project 2: Fronts'
 uid: a90f647c-277b-1526-ce52-4c62d11d4584

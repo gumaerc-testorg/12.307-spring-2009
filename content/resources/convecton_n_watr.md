@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: Convection in water (an almost-incompressible fluid)
 uid: 1caad38c-7419-53e0-35b2-fce372868819

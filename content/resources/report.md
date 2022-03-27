@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: Guidelines on Oral Presentations and Project Reports
 uid: 7db8dafa-4eea-f76a-2a28-2c4318320eea
