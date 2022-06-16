@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, projects, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 11729aa7-64a2-3fed-a22c-c7cf32c9f8c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -42,6 +48,6 @@ There are four projects, each of which takes approximately 3 weeks to complete:
 Grading
 -------
 
-Students will be asked to critically summarize the results of each project in a written 'Project Report', on which grades will be based. There is a new 'project theme' every three weeks (see [calendar]({{< baseurl >}}/pages/calendar)), a total of four during the semester. Each comprises an atmospheric data component and a fluids laboratory component.
+Students will be asked to critically summarize the results of each project in a written 'Project Report', on which grades will be based. There is a new 'project theme' every three weeks (see {{% resource_link f4f594dd-17f2-a83e-0200-d5b52c207bdc "calendar" %}}), a total of four during the semester. Each comprises an atmospheric data component and a fluids laboratory component.
 
 Students are also required to present their projects orally to the whole class. It is our intent to give to the students not only an opportunity to develop oral presentation skills but also a chance to discuss results with their piers.

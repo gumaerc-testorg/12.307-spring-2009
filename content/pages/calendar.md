@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, projects,
+  workshops, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: f4f594dd-17f2-a83e-0200-d5b52c207bdc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Each project includes both in-lab tank experiments ("Fluids lab") and real-time meteorological observations ("Synoptic lab"). At the beginning of the term, students participate in a series of workshops focused on writing and presenting their project reports.

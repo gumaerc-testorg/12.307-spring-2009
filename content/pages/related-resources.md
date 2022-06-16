@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides links to related resources on weather and climate.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 0fd5bee3-ab24-0bf1-4e6b-c9f4c868041b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Useful Links

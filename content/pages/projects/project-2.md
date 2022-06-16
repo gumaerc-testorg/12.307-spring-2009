@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features a project to inspect fronts crossing the country
+  associated with day-to-day variations in the weather using real-time atmospheric
+  observations.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -8,13 +11,17 @@ parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 2: Fronts'
 uid: 6e3412d8-9eb9-74a9-830a-26714d44d10d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this project, we inspect fronts crossing the country associated with day-to-day variations in the weather using real-time atmospheric observations. In the laboratory we create fronts by allowing salty (and hence dense) columns of water to collapse under rotation and gravity. We discover that the observed changes in winds and temperature across our laboratory and atmospheric fronts is consistent with Margule's formula (a discrete form of the thermal wind equation) and see that the dynamical balance at work in the atmosphere is the same as in the density fronts created in the rotating tank.
 
-Project Description ([PDF]({{< baseurl >}}/resources/project2))
+Project Description ({{% resource_link a90f647c-277b-1526-ce52-4c62d11d4584 "PDF" %}})
 
-Notes on relevant theory: thermal wind ([PDF]({{< baseurl >}}/resources/thermal_wind))
+Notes on relevant theory: thermal wind ({{% resource_link b5b2713a-ee98-4296-0630-961e0e4e7a52 "PDF" %}})
 
 Tank Experiments
 ----------------
@@ -31,7 +38,7 @@ Relevant Notes at the Weather in a Tank Web site: [The Polar Front](http://weath
 **Mean fields:** Use climatological data to verify thermal wind balance across the polar front.
 
 *   Plot your data (3 files total). [See Instructions](http://halo.mit.edu/paoc.mit.edu/12307/front/thermalwind_instructions.htm).
-*   Use the MATLAB script ([M]({{< baseurl >}}/resources/thermalwind)) to compute the temperature gradient and vertical wind shear.
+*   Use the MATLAB script ({{% resource_link aab37320-8abd-9a83-73c1-c55e9dceed21 "M" %}}) to compute the temperature gradient and vertical wind shear.
 
 Mid-latitude cyclones and the polar front
 
