@@ -7,6 +7,7 @@ file: /courses/12-307-weather-and-climate-laboratory-spring-2009/aab373208abd9a8
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 MATLAB script used to compute temperature gradient and vertical wind shear. This script computes both sides of the thermal wind relation using NCEP Reanalysis climatological data.
-

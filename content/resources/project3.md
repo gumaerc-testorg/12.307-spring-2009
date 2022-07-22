@@ -7,6 +7,7 @@ file: /courses/12-307-weather-and-climate-laboratory-spring-2009/ed6109be1fffecf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Instructions for a project on the nature of the convective process. Students simulate convection in the laboratory using a tank of water with a heating pad at its base and study convection in the atmosphere using thermodynamic diagrams.
-
