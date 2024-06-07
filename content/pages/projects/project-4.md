@@ -2,6 +2,7 @@
 content_type: page
 description: This section features a project to study aspects of the general circulation
   of the atmosphere using atmospheric data and a rotating annulus.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,10 +16,9 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 In this final project, we draw together some of the ideas explored in Projects 1, 2, and 3 and apply them to study, using atmospheric data and a rotating annulus, aspects of the general circulation of the atmosphere.
 
-Project Description ({{% resource_link 518572c6-9ea8-2da5-6aea-2ef65ce32947 "PDF" %}})
+Project Description ({{% resource_link "518572c6-9ea8-2da5-6aea-2ef65ce32947" "PDF" %}})
 
 Notes on relevant theory:
 
@@ -28,24 +28,17 @@ Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 8
 
 For an introduction to [General Circulation](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-tank-hadley) can be found at the Weather in a Tank Web site
 
-Tank Experiments
-----------------
-
-*   A description of the [Low Rotation Experiment](http://paoc.mit.edu/labguide/circ_hadley.html) can be found at the Weather in a Tank Web site
-*   A description of the [High Rotation Experiment](http://paoc.mit.edu/labguide/circ_exp_fast.html) can be found at the Weather in a Tank Web site
-
-Atmospheric Data
-----------------
+## Atmospheric Data
 
 ### Hadley cell
 
-*   Climatology from NCEP Reanalysis: [Weather in a Tank – Atmosphere Hadley](http://paoc.mit.edu/labguide/circ_hadley.html)
-*   [Instructions for plotting of NCEP reanalysis zonally averaged fields](http://weatherclimatelab.mit.edu/instructions-for-plotting-of-ncep-reanalysis-zonally-averaged-fields)
+- Climatology from NCEP Reanalysis: [Weather in a Tank – Atmosphere Hadley](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-atmosphere-hadley)
+- [Instructions for plotting of NCEP reanalysis zonally averaged fields](http://weatherclimatelab.mit.edu/instructions-for-plotting-of-ncep-reanalysis-zonally-averaged-fields)
 
 ### Eddy heat transport
 
-*   Eddy heat transport from NCEP Reanalyis: [Weather in a Tank – Atmosphere Eddies](http://paoc.mit.edu/labguide/circ_hadley.html)
-*   [Instructions for plotting transient heat fluxes](http://weatherclimatelab.mit.edu/instructions-for-plotting-transient-heat-fluxes-from-ncepncar-reanalysis)
+- Eddy heat transport from NCEP Reanalyis: [Weather in a Tank – Atmosphere Eddies](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-atmosphere-eddies)
+- [Instructions for plotting transient heat fluxes](http://weatherclimatelab.mit.edu/instructions-for-plotting-transient-heat-fluxes-from-ncepncar-reanalysis)
 
 Other links:
 
