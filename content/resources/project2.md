@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions for a project to inspect fronts crossing the country associated
   with day-to-day variations in the weather using real-time atmospheric observations.
 file: /courses/12-307-weather-and-climate-laboratory-spring-2009/a90f647c277b1526ce524c62d11d4584_project2.pdf
+file_size: 816440
 file_type: application/pdf
 learning_resource_types:
 - Projects
