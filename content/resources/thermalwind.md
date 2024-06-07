@@ -4,6 +4,7 @@ description: MATLAB script used to compute temperature gradient and vertical win
   shear. This script computes both sides of the thermal wind relation using NCEP Reanalysis
   climatological data.
 file: /courses/12-307-weather-and-climate-laboratory-spring-2009/aab373208abd9a8373c1c55e9dceed21_thermalwind.m
+file_size: 4833
 file_type: text/plain
 learning_resource_types:
 - Projects
