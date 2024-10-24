@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on oral presentations and project reports.
-file: /courses/12-307-weather-and-climate-laboratory-spring-2009/7db8dafa4eeaf76a2a282c4318320eea_report.pdf
+file: /ol-ocw-studio-app/courses/12-307-weather-and-climate-laboratory-spring-2009/7db8dafa4eeaf76a2a282c4318320eea_report.pdf
 file_size: 56643
 file_type: application/pdf
 learning_resource_types:
