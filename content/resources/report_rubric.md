@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rubric for student project reports.
-file: /ol-ocw-studio-app/courses/12-307-weather-and-climate-laboratory-spring-2009/df22f7593df579481863b75d9c21df9b_report_rubric.pdf
+file: /courses/12-307-weather-and-climate-laboratory-spring-2009/df22f7593df579481863b75d9c21df9b_report_rubric.pdf
 file_size: 42432
 file_type: application/pdf
 learning_resource_types:
