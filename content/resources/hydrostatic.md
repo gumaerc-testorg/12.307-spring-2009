@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on geostrophic balance and on hydrostatic balance.
-file: /ol-ocw-studio-app/courses/12-307-weather-and-climate-laboratory-spring-2009/d6768eca18dbc5fc6d1fac9d27dcf147_hydrostatic.pdf
+file: /courses/12-307-weather-and-climate-laboratory-spring-2009/d6768eca18dbc5fc6d1fac9d27dcf147_hydrostatic.pdf
 file_size: 141951
 file_type: application/pdf
 learning_resource_types:
