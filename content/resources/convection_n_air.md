@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on convection in a compressible atmosphere.
-file: /courses/12-307-weather-and-climate-laboratory-spring-2009/6f19429bbee0d643af89d54370e8e468_convection_n_air.pdf
+file: /ol-ocw-studio-app/courses/12-307-weather-and-climate-laboratory-spring-2009/6f19429bbee0d643af89d54370e8e468_convection_n_air.pdf
 file_size: 188641
 file_type: application/pdf
 learning_resource_types:

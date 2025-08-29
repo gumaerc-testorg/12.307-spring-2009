@@ -64,4 +64,4 @@ Warm and cold fronts
 
 Other links:
 
-- [Satellite images (Naval Research Laboratory- Monterey)](https://www.nrlmry.navy.mil/NEXSAT.html)
+- [Satellite images (Naval Research Laboratory- Monterey)](https://www.nrl.navy.mil/News-Media/Images/igsearch/Satellite/igsort/UploadDate/)
