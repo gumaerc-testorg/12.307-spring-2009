@@ -44,6 +44,6 @@ Other links:
 
 [ESRL climate](https://www.esrl.noaa.gov/psd/data/usclimdivs/)
 
-[IRI/LDEO Climatology (NCEP Reanalysis)](http://ingrid.ldeo.columbia.edu/)
+[IRI/LDEO Climatology (NCEP Reanalysis)](http://154.66.220.45/)
 
 [Climate data](http://weatherclimatelab.mit.edu/climate-data-zonal-means) (from [OORT dataset](http://iridl.ldeo.columbia.edu/SOURCES/.OORT/.dataset_documentation.html))
