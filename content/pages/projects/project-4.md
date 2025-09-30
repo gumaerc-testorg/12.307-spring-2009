@@ -22,28 +22,28 @@ Project Description ({{% resource_link "518572c6-9ea8-2da5-6aea-2ef65ce32947" "P
 
 Notes on relevant theory:
 
-Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 5: The Meridional Structure of the Atmosphere — temperature, pressure, moisture and winds ([PDF - 4.1 MB](http://weatherclimatelab.mit.edu/wp-content/uploads/2017/07/chap5.pdf))
+Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 5: The Meridional Structure of the Atmosphere — temperature, pressure, moisture and winds ({{% resource_link "da55c109-d431-4c0e-90cc-94217d8f415a" "PDF - 4.1 MB" %}})
 
-Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 8: The General Circulation of the atmosphere — Hadley and middle latitudes circulation-heat and momentum budget ([PDF - 1.5 MB](http://weathertank.mit.edu/wp-content/uploads/2017/04/chap8.pdf))
+Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 8: The General Circulation of the atmosphere — Hadley and middle latitudes circulation-heat and momentum budget ({{% resource_link "69eb1ba5-0ba4-453a-ab12-0a16cfdc0a7d" "PDF - 1.5 MB" %}})
 
-For an introduction to [General Circulation](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-tank-hadley) can be found at the Weather in a Tank Web site
+For an introduction to {{% resource_link "cca722bc-7626-4656-85b7-9180816aba95" "General Circulation" %}} can be found at the Weather in a Tank Web site
 
 ## Atmospheric Data
 
 ### Hadley cell
 
-- Climatology from NCEP Reanalysis: [Weather in a Tank – Atmosphere Hadley](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-atmosphere-hadley)
-- [Instructions for plotting of NCEP reanalysis zonally averaged fields](http://weatherclimatelab.mit.edu/instructions-for-plotting-of-ncep-reanalysis-zonally-averaged-fields)
+- Climatology from NCEP Reanalysis: {{% resource_link "45d72d39-c588-4b4c-81a0-fe3c23a1f31d" "Weather in a Tank – Atmosphere Hadley" %}}
+- {{% resource_link "42e27140-20cb-4789-9105-2004388047cb" "Instructions for plotting of NCEP reanalysis zonally averaged fields" %}}
 
 ### Eddy heat transport
 
-- Eddy heat transport from NCEP Reanalyis: [Weather in a Tank – Atmosphere Eddies](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-atmosphere-eddies)
-- [Instructions for plotting transient heat fluxes](http://weatherclimatelab.mit.edu/instructions-for-plotting-transient-heat-fluxes-from-ncepncar-reanalysis)
+- Eddy heat transport from NCEP Reanalyis: {{% resource_link "c5f54137-5480-4bec-8ff4-6ff689d15690" "Weather in a Tank – Atmosphere Eddies" %}}
+- {{% resource_link "a092818d-593e-4fea-9d72-aebdcd28c7be" "Instructions for plotting transient heat fluxes" %}}
 
 Other links:
 
-[ESRL climate](https://www.esrl.noaa.gov/psd/data/usclimdivs/)
+{{% resource_link "b33995ce-f203-41e1-98a3-357f238ebc96" "ESRL climate" %}}
 
-[IRI/LDEO Climatology (NCEP Reanalysis)](http://154.66.220.45/)
+{{% resource_link "2f63479b-b80b-463f-abc8-756579a8d0b3" "IRI/LDEO Climatology (NCEP Reanalysis)" %}}
 
-[Climate data](http://weatherclimatelab.mit.edu/climate-data-zonal-means) (from [OORT dataset](http://iridl.ldeo.columbia.edu/SOURCES/.OORT/.dataset_documentation.html))
+{{% resource_link "82d84756-1b39-43b6-8613-20834b651dda" "Climate data" %}} (from {{% resource_link "ec6e5c0b-f3ca-4ec4-8203-f23b9128630d" "OORT dataset" %}})
